@@ -1,8 +1,3 @@
----
-title: 总控agent
-createTime: 2026/04/07 14:31:00
-permalink: /heuScan/hdnioasz/
----
 # 一、agrnt任务描述
 
     作为项目的核心总控agent，需要承担对接用户输入输出，拆解任务，处理错误等核心功能，并且具体调用那一部分agent，也需要该总控agent控制；因此该agent处于绝对的核心。
